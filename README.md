@@ -245,6 +245,25 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY
 ```
 
 ---
+<p align="center">
+  <img src="./screenshots/Main.png" width="100%" alt="Main Pages" />
+</p>
+<p align="center">
+  <img src="./screenshots/Info.png" width="100%" alt="Steps to sign family" />
+</p>
+<p align="center">
+  <img src="./screenshots/ExportOffile.png" width="100%" alt="Steps to sign family" />
+</p>
+<p align="center">
+  <img src="./screenshots/export.png" width="100%" alt="Steps to sign family" />
+</p>
+<p align="center">
+  <img src="./screenshots/settings.png" width="100%" alt="Steps to sign family" />
+</p>
+<p align="center">
+  <img src="./screenshots/export%20chiledern.png" width="100%" alt="Steps to sign family" />
+</p>
+---
 
 ## 📱 Offline Usage
 
