@@ -132,7 +132,7 @@ src/
 
 ## 📱 Companion Mobile App — Flutter
 
-> **Repository:** `[link to flutter repo]`
+> **Repository:** (https://github.com/Ali-Ghanme/Families-Data-Collection-App)
 
 The Flutter app is used exclusively by **field researchers** to collect family data on-site. It is the data entry point for this entire system.
 
